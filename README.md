@@ -74,5 +74,8 @@ See [Supported devices](https://www.zigbee2mqtt.io/information/supported_devices
 
 If it's not listed in [Supported devices](https://www.zigbee2mqtt.io/information/supported_devices.html), support can be added (fairly) easy, see [How to support new devices](https://www.zigbee2mqtt.io/how_tos/how_to_support_new_devices.html).
 
+## Supported adapters
+See [Supported adapters](https://www.zigbee2mqtt.io/information/supported_adapters.html) to check whether your Zigbee coordinator is officially supported.
+
 ## Support & help
 If you need assistance you can check [opened issues](https://github.com/Koenkk/zigbee2mqtt/issues). Feel free to help with Pull Requests when you were able to fix things or add new devices or just share the love on social media.
